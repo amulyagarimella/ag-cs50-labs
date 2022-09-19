@@ -1,6 +1,10 @@
 # Amulya's CS50 Lab Section
 
-[Anonymous feedback: bit.ly/ag-cs50](https://freesuggestionbox.com/pub/gnekave)
+**Where:** Science Center 105
+
+**When:** 4:30 - 5:45 pm 
+
+**Anonymous feedback:** https://bit.ly/ag-cs50
 
 ## Helpful resources
 - [CS50 Manual](https://manual.cs50.io)
