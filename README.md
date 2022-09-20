@@ -17,3 +17,5 @@
 
 ## Week 3
 - Slides - to be added!
+
+![](https://c.tenor.com/PV4JW2bMnBIAAAAC/pink-heart.gif)
