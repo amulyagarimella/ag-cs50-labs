@@ -10,12 +10,15 @@
 - [CS50 Manual](https://manual.cs50.io)
 - [C Documentation](https://devdocs.io/c/)
 - [CS50 C Library Documentation](https://cs50.readthedocs.io/libraries/cs50/c/)
+- [CS50 Syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
+  - [Lateness policy](https://cs50.harvard.edu/college/2022/fall/syllabus/#lateness-policy)
+  - [Extension policy](https://cs50.harvard.edu/college/2022/fall/syllabus/#extensions)
 
 ## Week 2
 - [Slides](https://docs.google.com/presentation/d/1bnXviUxpH_br8jrgA8yDMW9iCFLZXl2U2BICS_BuSE8/edit?usp=sharing)
 - [ASCII Table](https://www.asciitable.com)
 
 ## Week 3
-- Slides - to be added!
+- [Slides](https://docs.google.com/presentation/d/1FTZFORG3fneUbPVrrJo3LgzhKPIlKdFM5A_bEUp1JFg/edit?usp=sharing)
 
 ![](https://c.tenor.com/PV4JW2bMnBIAAAAC/pink-heart.gif)
