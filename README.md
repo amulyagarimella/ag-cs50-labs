@@ -25,4 +25,17 @@
 ## Week 4
 - [Slides](https://docs.google.com/presentation/d/1W8xiGM_uep_UHf61V674wUh5p4fw-BUbKntnnhreERg/edit?usp=sharing)
 
+## Week 5
+- [Slides](https://docs.google.com/presentation/d/11Bws6yL93s-2EKJ83cSwLm5tWLFtF_0lvxDPJFz-MV8/edit?usp=share_link)
+
+## Week 6
+- [Slides](https://docs.google.com/presentation/d/1kt22hZ4Xqt7mEDQTv9Z6xpAJViy_XVSdq2QFlMlAQfc/edit?usp=share_link)
+
+## Week 7
+- [Slides](https://docs.google.com/presentation/d/1n4uiRd4P92aBSD5nJWKrvJQaD2adWytCQ3Jg0AZCaIY/edit?usp=share_link)
+- [SQL syntax](https://www.w3schools.com/sql/sql_syntax.asp)
+
+## Week 8
+coming soon!
+
 ![](https://c.tenor.com/PV4JW2bMnBIAAAAC/pink-heart.gif)
