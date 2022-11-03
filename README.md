@@ -36,6 +36,10 @@
 - [SQL syntax](https://www.w3schools.com/sql/sql_syntax.asp)
 
 ## Week 8
-coming soon!
+- [Slides](https://docs.google.com/presentation/d/1KuvbvuZwOE4lLQzPu3U9IPNR_D256lBZjlxMRicuPis/edit?usp=sharing)
+- [HTML docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Bootstrap docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+- [CSS docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JS docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ![](https://c.tenor.com/PV4JW2bMnBIAAAAC/pink-heart.gif)
