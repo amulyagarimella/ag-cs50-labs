@@ -42,4 +42,7 @@
 - [CSS docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JS docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+## Week 9
+- [Slides](https://docs.google.com/presentation/d/1-3WfcTR_AL-9tg3f2pyXT87FvnHR7m4J38XebTfkhqI/edit?usp=sharing)
+
 ![](https://c.tenor.com/PV4JW2bMnBIAAAAC/pink-heart.gif)
