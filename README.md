@@ -45,4 +45,10 @@
 ## Week 9
 - [Slides](https://docs.google.com/presentation/d/1-3WfcTR_AL-9tg3f2pyXT87FvnHR7m4J38XebTfkhqI/edit?usp=sharing)
 
+## Final project
+- Data science seminar
+  - Could be inspiration for a final project, or just a helpful resource for the future!
+  - [Slides](https://docs.google.com/presentation/d/1iF_-TG8GS1M0nTmMvoHswlvRQIzNcIR8IAtIoU7Cdh8/edit?usp=sharing)
+  - [Recording](https://www.youtube.com/watch?v=JE81X23PxiA&t=32s)
+
 ![](https://c.tenor.com/PV4JW2bMnBIAAAAC/pink-heart.gif)
