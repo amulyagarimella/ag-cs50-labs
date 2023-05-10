@@ -13,7 +13,7 @@
 - [CS50 Syllabus](https://cs50.harvard.edu/college/2022/fall/syllabus/)
   - [Lateness policy](https://cs50.harvard.edu/college/2022/fall/syllabus/#lateness-policy)
   - [Extension policy](https://cs50.harvard.edu/college/2022/fall/syllabus/#extensions)
-- [Design tips](https://docs.google.com/presentation/d/1L8Bw9KUt_Sw9l4whg8iaz0kqXfZ5ekebmYKhyrgMSCc/edit?usp=sharing)
+- [My design tips](https://docs.google.com/presentation/d/1L8Bw9KUt_Sw9l4whg8iaz0kqXfZ5ekebmYKhyrgMSCc/edit?usp=sharing)
 
 ## Week 2
 - [Slides](https://docs.google.com/presentation/d/1bnXviUxpH_br8jrgA8yDMW9iCFLZXl2U2BICS_BuSE8/edit?usp=sharing)
